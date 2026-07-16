@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ng7hmbz65r-collab.github.io/nbskole-store/sitemap.xml
